@@ -26,5 +26,3 @@ Once approved, manually create the issue on GitHub using the reviewed Markdown c
 
 This is a work-around until we can create issues directly from within qit-proxy.
 
-This line should be removed
-And this one
